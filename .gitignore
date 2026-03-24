@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# local config (ห้าม push)
+src/main/resources/application-local.properties
+.env
